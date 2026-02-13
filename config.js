@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Chúc em một Valentine tràn ngập yêu thương. Cảm ơn vì em đã xuất hiện và làm cuộc đời anh trở nên đặc biệt hơn mỗi ngày❤️. Valentine này và thật nhiều Valentine sau nữa, mình vẫn nắm tay nhau như thế nhé.',
+    messDesc: 'Chúc em một Valentine tràn ngập yêu thương. Cảm ơn vì em đã xuất hiện và làm cuộc đời anh trở nên đặc biệt hơn mỗi ngày❤️. Valentine này và thật nhiều Valentine sau nữa, mình vẫn nắm tay nhau như thế Hà Vân nhé.',
     btnAccept: 'Okiiiii lun <3',
    
 }
